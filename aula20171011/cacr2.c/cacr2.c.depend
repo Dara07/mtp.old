@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507944462 source:c:\users\sakakibara\documents\material\programas\cacr2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

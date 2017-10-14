@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507778173 source:c:\users\sakakibara\documents\material\programas\sacr2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
